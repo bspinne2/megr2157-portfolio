@@ -24,7 +24,7 @@ a) This product is intended to grip onto surfaces that are typically more diffic
 
 b) The mechanical behavior is governed by a static equilibrium of a class-1 lever system where F(jaw) x d(jaw) = F(hand) x d(hand), where F is the force being exerted on or by that object, and d is the perpendicular distance from that object. An assumption can be made that the two lever arms are infinitely rigid bodies and are not susceptible to bending strain. 
 
-c) </> Markdown 
+c)
 
 ![Decision Image](../../WIN_20260824_22_31_16_Pro.jpg)
 
@@ -41,5 +41,14 @@ Homepage Identity:
 
 The purpose of this website is to serve as a digital repository of project files and project descriptions with a professional focus. Navigation is broken up by specific assignment with the same Analyze/Decide/Communicate framework designed to follow the engineering design and decision-making process used in each assignment.
 
+Intentional Customization:
+
+The primary color of the website was changed from green to indigo. The indigo reflects an attempt at making the portfolio more visually appealing than contrasting portfolios. A white background paired with a dark, inviting color typically creates a more comfortable digital environment for the reader to experience, and I figured that indigo brings a nice surprise to the design of the portfolio.
+
+Document Standard:
+
+The documents presented in this portfolio are intended to attain precision synonymous with high-level engineering and design processes.
+
 ## Communicate
 
+See "About me" section on the homepage to learn who I am.

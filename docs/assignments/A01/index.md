@@ -24,9 +24,9 @@ a) This product is intended to grip onto surfaces that are typically more diffic
 
 b) The mechanical behavior is governed by a static equilibrium of a class-1 lever system where F(jaw) x d(jaw) = F(hand) x d(hand), where F is the force being exerted on or by that object, and d is the perpendicular distance from that object. An assumption can be made that the two lever arms are infinitely rigid bodies and are not susceptible to bending strain. 
 
-c) </>  Markdown 
+c) </> Markdown 
 
-![Decision Image 1](../../WIN_20260824_22_31_16_Pro.jpg)
+![Decision Image](../../WIN_20260824_22_31_16_Pro.jpg)
 
 The lever shaped geometry of the product allows for an inverse movement to occur between the hands and the jaws of the object. When the pliers are fully contracted, the potential energy is at a max.
 ![Decision Image 2](../../WIN_20260824_22_31_31_Pro.jpg)
@@ -37,6 +37,9 @@ d) The product is covered under US patent number US427220A invented by William A
 
 ## Decide
 
+Homepage Identity:
+
+The purpose of this website is to serve as a digital repository of project files and project descriptions with a professional focus. Navigation is broken up by specific assignment with the same Analyze/Decide/Communicate framework designed to follow the engineering design and decision-making process used in each assignment.
 
 ## Communicate
 

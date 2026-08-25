@@ -23,7 +23,18 @@ Chosen product : Pliers
 a) This product is intended to grip onto surfaces that are typically more difficult to grasp with just one's hands. It utilizes a manual input force class-1 lever system where a compressive gripping force is applied onto a target object. The jaws on this object are restricted to a single rotational plane. 
 
 b) The mechanical behavior is governed by a static equilibrium of a class-1 lever system where F(jaw) x d(jaw) = F(hand) x d(hand), where F is the force being exerted on or by that object, and d is the perpendicular distance from that object. An assumption can be made that the two lever arms are infinitely rigid bodies and are not susceptible to bending strain. 
-c) 
+
+c) </>  Markdown 
+
+![Decision Image 1](../../WIN_20260824_22_31_16_Pro.jpg)
+
+The lever shaped geometry of the product allows for an inverse movement to occur between the hands and the jaws of the object. When the pliers are fully contracted, the potential energy is at a max.
+![Decision Image 2](../../WIN_20260824_22_31_31_Pro.jpg)
+
+Once the hands are compressed, the potential energy turns into kinetic energy, and the force of the handles prompts the jaws to be propelled in the opposite direction with an equal force. 
+
+d) The product is covered under US patent number US427220A invented by William A. Bernard. Two alternative products that carry a similar function as this product are toggle-locking pliers and parallel-jaw linking pliers. The engineer selected a single-pivot lap joint with a stepped, overlapping cylindrical pocket rather than a multi-linkage sliding joint. I believe this was intended to keep the product as simplistic and as easily useable as possible.
+
 ## Decide
 
 

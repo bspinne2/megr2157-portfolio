@@ -21,6 +21,7 @@ Professional Tone : I would argue that Cheah's language is very close to being o
 Chosen product : Pliers
 
 a) This product is intended to grip onto surfaces that are typically more difficult to grasp with just one's hands. It utilizes a manual input force class-1 lever system where a compressive gripping force is applied onto a target object. The jaws on this object are restricted to a single rotational plane. 
+
 b) The mechanical behavior is governed by a static equilibrium of a class-1 lever system where F(jaw) x d(jaw) = F(hand) x d(hand), where F is the force being exerted on or by that object, and d is the perpendicular distance from that object. An assumption can be made that the two lever arms are infinitely rigid bodies and are not susceptible to bending strain. 
 c) 
 ## Decide

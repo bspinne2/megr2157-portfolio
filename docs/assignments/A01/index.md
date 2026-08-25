@@ -4,7 +4,7 @@
 The objective of this assignment is to create an engineering portfolio by analyzing existing portfolios and a physical mechanical product, documenting explicit design decisions, and presenting a professional identity that meets industry documentation standards.
 
 ## Analyze
-## Task A) Portfolio Analysis
+# Task A) Portfolio Analysis
 [cybergeekgyan's Portfolio] (https://github.com/cybergeekgyan/Data-Engineering-Portfolio)
 [Jordan Cheah's Portfolio] (https://github.com/jordanbigdata/portfolio)
 
@@ -16,7 +16,7 @@ Evidence of Reasoning : Jordan does not present any perceivable intake on why hi
 
 Professional Tone : I would argue that Cheah's language is very close to being of engineering caliber. Certain descriptors could be substituted for more suitable terms when explaining his reasoning behind his designs.
 
-## Task B) Product Analysis
+# Task B) Product Analysis
 
 Chosen product : Pliers
 

@@ -43,3 +43,5 @@ The next course of action is to analyze the shear stress enacting on the pins to
 ![Image 6 Description](IMG_2886.jpeg)
 
 I noticed after rereading the directions that the directions of my arrows in the FBD are inverted, as the system is intended to be in compression rather than in tension. This process was very similar to the process of finding the cross sectional area of the members, just with different variables. I then reused MathCAD to input the values into the variables. 
+
+![Screenshot Description](Screenshot%202026-09-02%20235100.png)

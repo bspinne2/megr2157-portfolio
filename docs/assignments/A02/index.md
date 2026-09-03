@@ -45,3 +45,5 @@ The next course of action is to analyze the shear stress enacting on the pins to
 I noticed after rereading the directions that the directions of my arrows in the FBD are inverted, as the system is intended to be in compression rather than in tension. This process was very similar to the process of finding the cross sectional area of the members, just with different variables. I then reused MathCAD to input the values into the variables. 
 
 ![Screenshot Description](Screenshot%202026-09-02%20235100.png)
+
+Even after solving for the weight, I am unsure if that would be the right value. I tried to think about it logically, so i multiplied the density by the cross sectional area, then by 3 times the value of a to measure the distance between the pins. Finally, because there are two pins I multiplied by two since it would be approximately double the weight. The other calculations were rather straightforward.

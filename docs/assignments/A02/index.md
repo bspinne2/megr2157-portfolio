@@ -19,3 +19,7 @@ I most definitely ran into some issues that took up some time to debunk during t
 Next it was time to numerically solve each of the numerical forces. While I could accomplish this using on paper substitution, I opted to use PTC MathCAD to simplify the calculations. I first provided the givens, then I used those values to substitute into the variables I created. 
 
 ![Screenshot Description](Screenshot%202026-09-02%20220932.png)
+
+I was definitely surprised at how large the magnitude of the forces are. I was expected member CD to be the largest, but was shocked to learn member AE had the largest force acting on it. We will use this force for the next few steps.
+
+Next it was time to calculate the minimum cross-sectional area required for the truss to not fail, given the specifically provided safety factor of 3.5. For this step I was a little confused, as a said the yield strength was given, yet I did not see it provided anywhere. I then figured that since the material was provided to us, it was intentioned for us to look up the likely yield strength of the material. To my surprise, there was many yield strengths for many different conditions. I chose to pick the smallest one as that would allow for the greatest guarantee that the conditions meet the factor of safety. 

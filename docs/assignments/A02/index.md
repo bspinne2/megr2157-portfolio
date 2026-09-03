@@ -23,3 +23,9 @@ Next it was time to numerically solve each of the numerical forces. While I coul
 I was definitely surprised at how large the magnitude of the forces are. I was expected member CD to be the largest, but was shocked to learn member AE had the largest force acting on it. We will use this force for the next few steps.
 
 Next it was time to calculate the minimum cross-sectional area required for the truss to not fail, given the specifically provided safety factor of 3.5. For this step I was a little confused, as a said the yield strength was given, yet I did not see it provided anywhere. I then figured that since the material was provided to us, it was intentioned for us to look up the likely yield strength of the material. To my surprise, there was many yield strengths for many different conditions. I chose to pick the smallest one as that would allow for the greatest guarantee that the conditions meet the factor of safety. 
+
+![Image 4 Description](IMG_2884.jpeg)
+
+It is crucial that the stress meets way below the yield strength so there is no fear of the structure failing in any possible way. That is why I symbolically calculated for the minimum area, as any area larger than the one I calculated for will work. The next step was to plug in the values and get a numerical calculation for the cross-sectional area.
+
+![Screenshot Description](Screenshot%202026-09-02%20224800.png)

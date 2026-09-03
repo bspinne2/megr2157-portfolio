@@ -52,5 +52,5 @@ Even after solving for the weight, I am unsure if that would be the right value.
 
 Now it is time for the difficult section. Although it seems like a simple build to construct, with my limited CAD knowledge, I struggled a lot with this section. I was able to manage to sketch out the truss with accurate dimensions as shown below: 
 
-![Screenshot Description](Screenshot%202026-09-02%20014211.png)
+![Screenshot Description](Screenshot%202026-09-03%20014211.png)
 

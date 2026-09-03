@@ -8,6 +8,8 @@ When looking at the requirements and objective for this assignment, I knew it wo
 
 ![Image 1 Description](IMG_2881.jpeg)
 
+## Analysis of Truss
+
 This setup fits the joints and members rule and seems to follow all the criteria well. Now that this was setup, it was time to separate the truss into each individual joint and the internal forces acting on them. The first step was to not worry about plugging in values, and keep each of the forces as variables. My procedure can be observed in the images below:
 
 ![Image 2 Description](IMG_2882.jpeg)
@@ -16,11 +18,15 @@ This setup fits the joints and members rule and seems to follow all the criteria
 
 I most definitely ran into some issues that took up some time to debunk during this step. The first joint was the most difficult to analyze as I had to think through how each of the forces were acting on each other. However, with each joint I completed, I recognized a pattern with the trigonometry and how the forces related to one another. This allowed me to go a little quicker when solving for the equations of the other internal forces.
 
+## Assign Numerical Values
+
 Next it was time to numerically solve each of the numerical forces. While I could accomplish this using on paper substitution, I opted to use PTC MathCAD to simplify the calculations. I first provided the givens, then I used those values to substitute into the variables I created. 
 
 ![Screenshot Description](Screenshot%202026-09-02%20220932.png)
 
 I was definitely surprised at how large the magnitude of the forces are. I was expected member CD to be the largest, but was shocked to learn member AE had the largest force acting on it. We will use this force for the next few steps.
+
+## Cross Sectional Area of Members
 
 Next it was time to calculate the minimum cross-sectional area required for the truss to not fail, given the specifically provided safety factor of 3.5. For this step I was a little confused, as a said the yield strength was given, yet I did not see it provided anywhere. I then figured that since the material was provided to us, it was intentioned for us to look up the likely yield strength of the material. To my surprise, there was many yield strengths for many different conditions. I chose to pick the smallest one as that would allow for the greatest guarantee that the conditions meet the factor of safety. 
 
@@ -29,3 +35,10 @@ Next it was time to calculate the minimum cross-sectional area required for the 
 It is crucial that the stress meets way below the yield strength so there is no fear of the structure failing in any possible way. That is why I symbolically calculated for the minimum area, as any area larger than the one I calculated for will work. The next step was to plug in the values and get a numerical calculation for the cross-sectional area.
 
 ![Screenshot Description](Screenshot%202026-09-02%20224800.png)
+
+## Cross Sectional Area of Pins
+
+The next course of action is to analyze the shear stress enacting on the pins to find the minimum cross sectional area of the pins. Below is the symbolical analysis of these findings:
+
+![Image 6 Description](IMG_2886.jpeg)
+

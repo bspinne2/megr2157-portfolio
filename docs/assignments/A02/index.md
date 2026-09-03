@@ -18,3 +18,4 @@ I most definitely ran into some issues that took up some time to debunk during t
 
 Next it was time to numerically solve each of the numerical forces. While I could accomplish this using on paper substitution, I opted to use PTC MathCAD to simplify the calculations. I first provided the givens, then I used those values to substitute into the variables I created. 
 
+![Screenshot Description](Screenshot%202026-09-02%20220932.png)

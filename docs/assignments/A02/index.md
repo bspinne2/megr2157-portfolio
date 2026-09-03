@@ -13,3 +13,8 @@ This setup fits the joints and members rule and seems to follow all the criteria
 ![Image 2 Description](IMG_2882.jpeg)
 
 ![Image 3 Description](IMG_2883.jpeg)
+
+I most definitely ran into some issues that took up some time to debunk during this step. The first joint was the most difficult to analyze as I had to think through how each of the forces were acting on each other. However, with each joint I completed, I recognized a pattern with the trigonometry and how the forces related to one another. This allowed me to go a little quicker when solving for the equations of the other internal forces.
+
+Next it was time to numerically solve each of the numerical forces. While I could accomplish this using on paper substitution, I opted to use PTC MathCAD to simplify the calculations. I first provided the givens, then I used those values to substitute into the variables I created. 
+

@@ -47,3 +47,9 @@ I noticed after rereading the directions that the directions of my arrows in the
 ![Screenshot Description](Screenshot%202026-09-02%20235100.png)
 
 Even after solving for the weight, I am unsure if that would be the right value. I tried to think about it logically, so i multiplied the density by the cross sectional area, then by 3 times the value of a to measure the distance between the pins. Finally, because there are two pins I multiplied by two since it would be approximately double the weight. The other calculations were rather straightforward.
+
+## CAD Section
+
+Now it is time for the difficult section. Although it seems like a simple build to construct, with my limited CAD knowledge, I struggled a lot with this section. I was able to manage to sketch out the truss with accurate dimensions as shown below: 
+
+

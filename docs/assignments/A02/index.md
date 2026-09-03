@@ -54,3 +54,9 @@ Now it is time for the difficult section. Although it seems like a simple build 
 
 ![Screenshot Description](Screenshot%202026-09-03%20014211.png)
 
+The visible blue lines are my sketched out truss. My problem arose when it came to making my sketch into a 3 dimensional shape that did not overlap one another and cause an issue. I am confident that if I was able to get a 3D diagram of my truss, I would be able to put the pins in pretty effortlessly. I tried using numerous online materials to help me out through this process, but I came up empty handed and could not make anything work out unfortunately. This may have to be considered a failure.
+
+## Final Lessons
+
+I have grown immensely over the course of this project. In total, it took me around six hours to complete, or to not fully complete I should say. During this process I reevaluated my skills of internal stresses in a system and how to utilized statics and solids to build a stable truss system. This was a very time-consuming project, but was a great refresher on what I already knew. As a result of coming up short on my CAD endeavor, I have accepted that I have a long path to go on my skills as a designer and as a engineer. I have areas where I need growth on and evidently have come up short.
+

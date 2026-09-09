@@ -6,6 +6,9 @@ The first steps for this assignment is to analyze the problem and gather what ex
 
 ![Screenshot](Screenshot%202026-09-09%20130419.png)
 
+Before I can focus on designing the beam in Solidworks, I first have to establish a few measurements that are well within the criteria. When taking into account what was already provided, the only hing still left unknown is the length of the bar. I solved for this using the Tension Elongation Equation;
+
+
 
 
 

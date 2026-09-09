@@ -28,6 +28,11 @@ After finishing the rough geometry of the bar, I went back to read the instructi
 
 I knew I had to redefine my variables and guarantee that they all have values that satisfy the conditions. 
 
+![Image Description](IMG_2928.jpeg)
+
+After reevaluating, I realized all of my variables including my length can remain the same as long as I ensure my cross sectional area is still 0.25in^2. This just means I had to solve for what diameter would satisfy that given area. 
+
+
 
 
 

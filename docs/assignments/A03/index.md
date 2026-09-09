@@ -16,7 +16,17 @@ I assigned the distributed force to be 400lbf and the Modulus of Elasticity to b
 
 ### CAD Design
 
+When starting my design process, it was time to start creating some variables I can use to make assigning numerical values a lot easier. 
 
+![Screenshot](Screenshot%202026-09-09%20144416.png)
+
+It took me a few minutes to discover how to work this table and assign the equations and variables the right away. i attempted to use the variable, "Thickness," however the computer was unable to allow it for some reason. I changed it to "height" instead. 
+
+![Screenshot](Screenshot%202026-09-09%20144427.png)
+
+After finishing the rough geometry of the bar, I went back to read the instructions. I noticed a critical error I had missed, the cross sectional area must be circular. While I was confident I could recover from this mistake, I was frustrated I had missed such a significant detail. 
+
+I knew I had to redefine my variables and guarantee that they all have values that satisfy the conditions. 
 
 
 

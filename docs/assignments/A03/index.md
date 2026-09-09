@@ -34,6 +34,9 @@ After reevaluating, I realized all of my variables including my length can remai
 
 Now that I am on track with the correct values and geometry in mind, it was time to start constructing the bar again. I started by redefining any values and equations and extruding the circular cross section into a full member;
 
+![Screenshot](Screenshot%202026-09-09%20190104.png)
+
+![Screenshot](Screenshot%202026-09-09%20190113.png)
 
 
 

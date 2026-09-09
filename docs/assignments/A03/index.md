@@ -40,12 +40,11 @@ Now that I am on track with the correct values and geometry in mind, it was time
 
 The next step is to attach a material to the member. When picking a material, it is important to pick one that was as close as possible to my chosen Modulus of Elasticity as well the required yield strength target of 40ksi. Given there was hundreds of materials to choose from, I utilized AI to help narrow down which material would be a good fit. It suggested Aluminum 6061-T6 and I was very satisfied with it's suggestion. 
 
-![Screenshot](Screenshot%202026-09-09%20190339.png)
+![Screenshot](Screenshot%202026-09-09%20190619.png)
 
 After the material was assigned, the next step was to apply the fixture and load to the bar as provided in the initial sketch. It was an important detail for myself to remember that the force acting on the bar was a tensile force rather a compressive force. This can be observed in the below image. 
 
-![Screenshot](Screenshot%202026-09-09%20190619.png)
-
+![Screenshot](Screenshot%202026-09-09%20190339.png)
 
 
 

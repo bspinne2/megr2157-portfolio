@@ -6,7 +6,15 @@ The first steps for this assignment is to analyze the problem and gather what ex
 
 ![Screenshot](Screenshot%202026-09-09%20130419.png)
 
-Before I can focus on designing the beam in Solidworks, I first have to establish a few measurements that are well within the criteria. When taking into account what was already provided, the only hing still left unknown is the length of the bar. I solved for this using the Tension Elongation Equation;
+### Solve for Values
+
+Before I can focus on designing the beam in Solidworks, I first have to establish a few measurements that are well within the criteria. When taking into account what was already provided, the only hing still left unknown is the length of the bar. I solved for this using the direct tension elongation equation;
+
+![Image Description](IMG_2927.jpeg)
+
+I assigned the distributed force to be 400lbf and the Modulus of Elasticity to be 10 x 10^6 psi as both values are directly in the middle of the provided ranges. I also chose a random value for the width and height/thickness of the bar, and used these randomly selected values to solve for the length of the bar as demonstrated above. 
+
+### CAD Design
 
 
 

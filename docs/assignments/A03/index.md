@@ -44,8 +44,7 @@ The next step is to attach a material to the member. When picking a material, it
 
 After the material was assigned, the next step was to apply the fixture and load to the bar as provided in the initial sketch. It was an important detail for myself to remember that the force acting on the bar was a tensile force rather a compressive force. This can be observed in the below image. 
 
-![Screenshot](Screenshot%202026-09-09%20190339.png)
-
+![Screenshot](Screenshot%202026-09-09%20191339.png)
 
 
 

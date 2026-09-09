@@ -32,6 +32,10 @@ I knew I had to redefine my variables and guarantee that they all have values th
 
 After reevaluating, I realized all of my variables including my length can remain the same as long as I ensure my cross sectional area is still 0.25in^2. This just means I had to solve for what diameter would satisfy that given area. 
 
+Now that I am on track with the correct values and geometry in mind, it was time to start constructing the bar again. I started by redefining any values and equations and extruding the circular cross section into a full member;
+
+
+
 
 
 

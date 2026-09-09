@@ -12,7 +12,7 @@ Before I can focus on designing the beam in Solidworks, I first have to establis
 
 ![Image Description](IMG_2927.jpeg)
 
-I assigned the distributed force to be 400lbf and the Modulus of Elasticity to be 10 x 10^6 psi as both values are directly in the middle of the provided ranges. I also chose a random value for the width and height/thickness of the bar, and used these randomly selected values to solve for the length of the bar as demonstrated above. 
+I assigned the distributed force to be 400lbf and the Modulus of Elasticity to be 10 x 10^6 psi as both values are directly in the middle of the provided ranges. I also chose a random value for the width and height/thickness of the bar, and used these randomly selected values to solve for the length of the bar as demonstrated above. I did make a calculation error, the final length calculated is actually 56.25 inches. 
 
 ### CAD Design
 

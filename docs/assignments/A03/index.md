@@ -56,4 +56,5 @@ After the loads were attributed to the beam, it was time to create a mesh and ru
 
 The Von Mises and deflection maps above show that the highest stresses are present near the fixed support, while the highest displacements are located near the distributed force on the other end of the bar. The highest recorded stress across the beam is 1.74 ksi. We can use this stress alone with the yield strength for the material(40ksi) to determine how large of a safety factor we have.
 
+![Image Description](IMG_2931.jpeg)
 

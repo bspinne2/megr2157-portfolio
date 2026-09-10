@@ -78,3 +78,13 @@ The "2.55" value can be taken from the chart below given the diameter ratio that
 
 
 ![Screenshot](Screenshot%202026-09-10%20005711.png)
+
+## Lessons Learned
+
+I made several mistakes over the course of this project. The most noticeable being that I made the cross sectional area of the bar of the wrong geometry. This emphasizes the importance of reading directions in the field of engineering and how much time can be wasted if you miss out on something. Another mistake I made was calculating using the wrong units. As everything is standardized in SI Units, it was easy to forget to switch the units into inches and psi rather than millimeters and N/m^2. Overall, this assignment took me around 6 hours to complete, although it was very beneficial and not super complicated. 
+
+## Extra Section : Modify Design Parameters
+
+When editing the parameters, I am only moderating the distributed force and the area of the bar. I lowered the force from 400lbf to 300lbf and the area from 0.25in^2 to 0.20in^2 to see how the length will vary. Given there is a lower tensile force and the cross sectional area also decreased, I am going to make an educated guess that the length will also decrease. 
+
+

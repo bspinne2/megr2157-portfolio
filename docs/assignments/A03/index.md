@@ -87,4 +87,6 @@ I made several mistakes over the course of this project. The most noticeable bei
 
 When editing the parameters, I am only moderating the distributed force and the area of the bar. I lowered the force from 400lbf to 300lbf and the area from 0.25in^2 to 0.20in^2 to see how the length will vary. Given there is a lower tensile force and the cross sectional area also decreased, I am going to make an educated guess that the length will also decrease. 
 
+![Screenshot](Screenshot%202026-09-10%20012226.png)
 
+Given the length increasing to 60 inches, it is safe to say my guess was incorrect. I believe this is more due to the decrease in area rather than the decrease in a tensile force. From this, I drew the conclusion that a lower cross sectional area increases the length of members in tension. 

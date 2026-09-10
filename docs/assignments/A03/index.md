@@ -66,4 +66,8 @@ The next objective was for me to analyze the percentage difference between the p
 
 ![Image Description](IMG_2933.jpeg)
 
+Based on the calculation, the percentage is very close to zero, meaning the maximum deflections are very similar to one another. This is most likely due to the bar having a uniform cross-section under a simple axial tensile load without stress concentrations. While I would trust both situations where there is a meaningful discrepancy and almost no difference like this case, I prefer this instance as it confirms the calculated values are correctly set up. 
+
+## Hypothetical Pin Hole
+
 

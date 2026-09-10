@@ -72,5 +72,9 @@ Based on the calculation, the percentage is very close to zero, meaning the maxi
 
 The next objective is to imagine a pin hole being imprinted into the left side of the bar. Utilizing a ratio between the holes diameter compared to the diameter of the cross sectional area, I can find the stress concentration factor utilizing a Peterson's chart. Multiplying this value by the nominal stress would provide the max stress that added hole would create on the bar. The calculations can be observed below;
 
+![Image Description](IMG_2933.jpeg)
+
+The "2.55" value can be taken from the chart below given the diameter ratio that i calculated for. Similarly to the previous factor of safety, it is at a large enough amount that there remains no need for concern on how much stress is present within the bar. 
+
 
 ![Screenshot](Screenshot%202026-09-10%20005711.png)

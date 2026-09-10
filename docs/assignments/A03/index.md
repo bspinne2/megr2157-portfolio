@@ -52,3 +52,6 @@ After the loads were attributed to the beam, it was time to create a mesh and ru
 
 ![Screenshot](Screenshot%202026-09-09%20191647.png)
 
+![Screenshot](Screenshot%202026-09-09%20191045.png)
+
+![Screenshot](Screenshot%202026-09-09%20191711.png)

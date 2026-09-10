@@ -64,5 +64,6 @@ It is more than evident in the above calculation that the bar is nowhere near fa
 
 The next objective was for me to analyze the percentage difference between the provided maximum axial deformation of the bar versus the maximum recorded deformation based on the map. The calculation is demonstrated below;
 
+![Image Description](IMG_2933.jpeg)
 
 

@@ -58,3 +58,23 @@ Overall, my full Parametric modelling section for the bracket assignment can be 
 <img width="1517" height="617" alt="Screenshot 2026-10-01 015347" src="https://github.com/user-attachments/assets/87d837e2-3c01-425e-97a9-1b8032f634e2" />
 
 <img width="1430" height="540" alt="Screenshot 2026-10-01 015357" src="https://github.com/user-attachments/assets/d4acc7a7-0940-40f0-baeb-8a3ed6e64e6a" />
+
+## CAD Drawings
+
+For this step, I was tasked with taking my design and creating a Multiview drawing in CAD for it. This step was most definitely a learning curve as it has been a while since I have done drawings on Solid works. I created a sketch using the already completed part which was very beneficial as I did not have to do anything too crazy to transfer one over to the other. The first step was to get the right views and translating them into the correct locations.
+
+<img width="777" height="547" alt="Screenshot 2026-10-01 021801" src="https://github.com/user-attachments/assets/879d0d77-8e8f-4942-8bef-09987b198718" />
+
+<img width="845" height="590" alt="Screenshot 2026-10-01 022051" src="https://github.com/user-attachments/assets/5918bfba-5ed1-44db-bfae-3469ef940ec1" />
+
+After the four different views were in the right locations, the next step was to allocate the specific dimensions to each of the specific views and ensure they are visible to read off of. I utilized some internet guidance with how to navigate this drawing menu as I was not too familiar with it. 
+
+<img width="866" height="602" alt="Screenshot 2026-10-01 023544" src="https://github.com/user-attachments/assets/2d918b32-1aae-4dcc-b3d9-0dbce6b8a72d" />
+
+Overall, I added a note of specific tolerances listed by the assignment, and added some finishing touches to ensure the drawing was somewhat visually appealing. I believe it turned out pretty decent for someone who was not super well equipped to translate a part into a drawing using CAD software.
+
+<img width="937" height="666" alt="Screenshot 2026-10-01 024331" src="https://github.com/user-attachments/assets/f03e4e82-f9ae-4493-9aaf-ce6c840e0a3f" />
+
+## Reflections 
+
+Over the roughly 8.5 hours spent on this project, the primary technical lesson was seeing how parametric modeling links hand calculations directly to dynamic CAD geometry. Rather than manually entering static numbers, I tied the side wall thickness directly to the axial yield strength equation in SolidWorks. When testing a load shift from 600lbf to 800lbf, the variable updated from 0.030in to 0.040in automatically, driving downstream sketch relations without breaking the model. From a drawing standpoint, assigning a tight unilateral tolerance of 0.9992in +0.0000 and -0.0005 to the top gap in area b was essential as it served as a precision sliding-fit surface against the rigid T-beam, where interference can mess with functionality. Contrastingly, non-mating dimensions like the 1.000in total depth were left to a looser title-block standard because forcing precision on non-critical exterior boundaries unnecessarily wastes overall manufacturing costs and time without adding any operational value. Overall, this assignment taught me a lot about the difference between mathematical applications versus realistic expectations with design. 

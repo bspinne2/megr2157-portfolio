@@ -33,9 +33,27 @@ I then ran a medium size mesh analysis of the bracket with no adjustments to the
  The fine mesh analysis showed the biggest amount of elements to analyze the bracket. Approximately 66,000 elements were recorded. This amount was way more than I expected it to be. As predictable as well was that the stress and deflection magnitudes were marginally higher than the prior two meshes. 
 
  <img width="1091" height="570" alt="Screenshot 2026-10-21 235743" src="https://github.com/user-attachments/assets/8b90a2ab-24f8-473f-9d21-190dc0d1d1d8" />
-
+ 
 I was surprised to find how little red I found on this analysis. There were a lot of yellow and green present, but only a few small concentrations of high stress marks. 
 
 ### Calculated Mesh Values
 
 <img width="2287" height="3381" alt="IMG_3222" src="https://github.com/user-attachments/assets/65a13a40-2c35-43e9-95c6-8f9941cbb8fa" />
+
+It can be observed pretty easily from these calculations how unstable this bracket stands with no moderation. Regardless of the mesh size, the safety factors for the bracket are not sustainable in practical application. It can also be noted how a higher/finer mesh size equates to a larger max stress as well as a larger max deflection. Given the bracket at its current state, it did not fall within the 7 percent threshold, therefore the results did not converge.
+
+## Outer Loop
+
+Now that an initial inner loop analysis was performed on the bracket, the next step was to make some serious modifications to the bracket itself. The purpose of these modifications include making the build have less material, lower stress points, less deflection, and higher strength and stiffness. My specific area of optimization resolved around ensuring that the criteria converges and lowering the stress and deflection concentrations on the bracket. 
+
+My first coarse of action was to increase the thickness of the arm of the bracket. Given how long and slim it was, I was certain it caused a lot of stress points to be present that could have been avoided. I changed this value to 0.2mm thick. Additionally, I created a circular cut throughout the arm to remove extra material and get rid of some of those stress points. Since a circular cut leaves no sharp edges behind, it is optimal for reducing stress concentrations in a build. 
+
+<img width="686" height="573" alt="Screenshot 2026-10-22 003329" src="https://github.com/user-attachments/assets/05da3e7d-906f-4037-a0e6-0807b6a92ac8" />
+
+Now that I did some initial changes to the geometry of the bracket, it was time to reanalyze the concentrations present on it. 
+
+<img width="1122" height="595" alt="Screenshot 2026-10-22 003430" src="https://github.com/user-attachments/assets/3c05bc52-1904-4aad-9c4d-ac1100c87536" />
+
+<img width="1102" height="617" alt="Screenshot 2026-10-22 004106" src="https://github.com/user-attachments/assets/47bde21e-d84e-4d5e-9ba0-75220b49eb05" />
+
+As can be observed above, the slight changes in geometry drastically altered the max concentrations present on the bracket. 

@@ -56,4 +56,26 @@ Now that I did some initial changes to the geometry of the bracket, it was time 
 
 <img width="1102" height="617" alt="Screenshot 2026-10-22 004106" src="https://github.com/user-attachments/assets/47bde21e-d84e-4d5e-9ba0-75220b49eb05" />
 
-As can be observed above, the slight changes in geometry drastically altered the max concentrations present on the bracket. 
+As can be observed above, the slight changes in geometry drastically altered the max concentrations present on the bracket. While red spots still appeared, it was a path in the right direction towards creating an optimal and safe bracket. The above analysis was ran on a fine mesh study. I compared these calculated values to a medium mesh study to see if the configurations converge or not.
+
+<img width="3024" height="2179" alt="IMG_3223" src="https://github.com/user-attachments/assets/eb20dba5-4cc2-4073-9fd7-30c5f310f506" />
+
+Given the percent change was less than the 7% threshold, this mesh does indeed converge unlike the original. 
+
+Despite improvement being noticed, I decided to make a few more minor adjustments to the geometry. I added some fillets on any sharp edges in hopes that it would further reduce any stress concentrations. 
+
+<img width="982" height="751" alt="Screenshot 2026-10-22 005256" src="https://github.com/user-attachments/assets/6c955599-54dd-4b48-911e-de614c6dde3e" />
+
+<img width="1062" height="707" alt="Screenshot 2026-10-22 005407" src="https://github.com/user-attachments/assets/01c28376-0558-42f8-9c58-2895f67256d9" />
+
+<img width="933" height="777" alt="Screenshot 2026-10-22 005608" src="https://github.com/user-attachments/assets/7bd27a6d-6c43-4759-8eea-ef5717e31c87" />
+
+I was surprised that these changes in geometry did not actually reduce the max stresses on the bracket like I had hoped. There were many more changes that could have been made to further improve and make a fully functional bracket, however I was satisfied with what I had managed to accomplish.
+
+## Lessons Learned
+
+I spent a lot more time on this assignment than I had thought I would. I had done finite element analysis before, but I definitely believe I grasped a deeper understanding of different elements of a design and how different factors affect the overall stability and function of it. Specifically, I learned how a finer mesh with more elements creates areas with larger max Von Mises stresses and displacements than more coarse mesh. I also learned how to alter basic geometry in a build to reduce these stress points, such as adding fillets to reduce edges, or creating circular cuts to remove material and keep stresses to a minimum. Inclusively, I learned that FEA is a constant process and is crucial towards optimizing whatever it is that is being designed. 
+
+## 2157 Only work
+
+I had trouble understanding what to do for this part. It says repeat the process for the link but there is no link that brings me to a separate geometry or method for me to analyze. 

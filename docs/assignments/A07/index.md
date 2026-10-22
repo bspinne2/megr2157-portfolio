@@ -80,6 +80,6 @@ I spent a lot more time on this assignment than I had thought I would. I had don
 
 I had trouble understanding what to do for this part. It says repeat the process for the link but there is no link that brings me to a separate geometry or method for me to analyze. 
 
-
+[Download SolidWorks Model (A6_Bracket.SLDPRT)](A6_Bracket.SLDPRT)
 
 

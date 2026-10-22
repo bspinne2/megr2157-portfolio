@@ -80,6 +80,6 @@ I spent a lot more time on this assignment than I had thought I would. I had don
 
 I had trouble understanding what to do for this part. It says repeat the process for the link but there is no link that brings me to a separate geometry or method for me to analyze. 
 
-<img width="1248" height="857" alt="A6_Bracket" src="https://github.com/user-attachments/assets/7aaed44c-a6f4-406c-8d6d-6a9e20356e6d" />
+
 
 

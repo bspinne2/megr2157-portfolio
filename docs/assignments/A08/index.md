@@ -96,6 +96,50 @@ It was important that almost all of the dimensions were exactly the same for the
 
 I was very pleasantly shocked to find that the housing unit for the gear box turned out pretty good in my opinion. I was shocked that I was able to come up with it, although it could most likely use some enhancements.
 
+<img width="800" height="468" alt="Screenshot 2026-10-29 033431" src="https://github.com/user-attachments/assets/4c8f0a17-a1e2-4917-b2e4-4cad2282d157" />
+
+<img width="863" height="505" alt="Screenshot 2026-10-29 033523" src="https://github.com/user-attachments/assets/2327d3d6-79e3-4ef4-8b1b-c48cb61e0a2b" />
+
 ### Making the Bearings
 
-Since I was unable to download that file, 
+Since I was unable to download that file, I was forced to make these from scratch as well. On a brighter note though, this process took almost no extra time to complete.
+
+<img width="781" height="140" alt="Screenshot 2026-10-29 033759" src="https://github.com/user-attachments/assets/a5b06e74-fbf1-478e-82e6-6d379c2300fe" />
+
+<img width="1292" height="647" alt="Screenshot 2026-10-29 033918" src="https://github.com/user-attachments/assets/b08aa33a-7281-4d54-9d2e-897e7ff19bc4" />
+
+### Making the Gears
+
+After the files failed to download, I was nervous about if I was going to be able to incorporate the gears into the mechanism. Luckily, I researched a feature in which I can imprint gears and other common tools directly into SolidWorks. I found it quite fascinating and it helped a lot. One of the only issues I faced was that the lowest number of teeth they have was ten, yet the project require nine. I was left with no other choice, so I chose to go with the ten teeth pinion in hopes it would not change much.
+
+<img width="632" height="597" alt="Screenshot 2026-10-29 021132" src="https://github.com/user-attachments/assets/e5a28010-5612-4485-b8f1-d70e53329de9" />
+
+<img width="660" height="371" alt="Screenshot 2026-10-29 040152" src="https://github.com/user-attachments/assets/c0162b2e-acf4-49b1-9571-397a085e50f5" />
+
+## Assembling all of the Pieces Together
+
+Now that I had created several separate parts, it wads time to assemble them into one singular gearbox. I started out by just adding all of the components in and mating them one at a time in order to look similar to the image I had in my head. 
+
+<img width="850" height="726" alt="Screenshot 2026-10-29 041207" src="https://github.com/user-attachments/assets/628af43b-d330-4689-b4a4-1e94be6528e7" />
+
+<img width="787" height="686" alt="Screenshot 2026-10-29 042520" src="https://github.com/user-attachments/assets/2b2e3fa9-caaa-43f7-9c0b-78a7334a8019" />
+
+<img width="797" height="665" alt="Screenshot 2026-10-29 042634" src="https://github.com/user-attachments/assets/1dec5296-9455-4926-968b-9716edd3febd" />
+
+<img width="702" height="583" alt="Screenshot 2026-10-29 042724" src="https://github.com/user-attachments/assets/b2c8d645-01ac-4241-b070-7bfb84193b09" />
+
+Overall, there were definitely some dimensional errors I made with the gears. If I had more time, I would change a lot of features on the geometric side of things in order to ensure that the gears can fit inside of the box and not be hindered by an obstacles or interferences. 
+
+## MEGR 2157 - Drawing
+
+Given that I had the gearbox all assembled, the final step was to make an engineering drawing given the prototype of what I did. I wanted to incorporate as many views as possible that give insight of what is going on within the mechanism that may not be noticeable when within the housing box. 
+
+<img width="898" height="693" alt="Screenshot 2026-10-29 050254" src="https://github.com/user-attachments/assets/1ceafc52-993d-43d4-9a4f-a7091c93c8a2" />
+
+## Lessons Learned
+
+I learned so many things over the coarse of this project. For one I learned how even with access to parts setting up and analyzing a design is a long and meticulous process and should not be taken for granted. While none of my observations during my pre-design analysis showed any signs of failure, it is still so important in advanced projects such as this one to ensure that all elements are satisfied and will not yield under special circumstances. I learned that when there is technology issues there is always another way around things. While it took me a lot of time to do so, I am satisfied with knowing that I did my very best with the time provided to improve my design. 
+
+[GearBox_AssemDrawing.pdf](https://github.com/user-attachments/files/34127545/GearBox_AssemDrawing.pdf)
+
+[GearBox_AssemDrawing2.PDF](https://github.com/user-attachments/files/34127551/GearBox_AssemDrawing2.PDF)

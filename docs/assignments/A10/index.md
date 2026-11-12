@@ -122,6 +122,8 @@ This lead screw setup is incomplete as it is missing some key components for a p
 
 <img width="251" height="408" alt="Screenshot 2026-11-12 004636" src="https://github.com/user-attachments/assets/09489e8b-7f01-4979-8aa0-8178b46ed3e8" />
 
+<img width="1249" height="857" alt="LeadScrewAssembly" src="https://github.com/user-attachments/assets/e22f2849-c9ea-46de-aee0-0547a2f15b5b" />
+
 ## Lessons Learned 
 
 In this assignment, we learned how to use multiple analysis methods to find an appropriate value, such as when we found the height of the crosshead. We also learned how to convert linear speed into rotational speed, and then use that to find the torque of an object. 

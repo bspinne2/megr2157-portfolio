@@ -126,7 +126,7 @@ This lead screw setup is incomplete as it is missing some key components for a p
 
 [Crosshead.pdf](https://github.com/user-attachments/files/34733443/Crosshead.pdf)
 
-
+*** WONT LET ME UPLOAD OTHER CAD FILES INTO GITHUB *** (a pdf was the best I could manage).
 
 ## Lessons Learned 
 
@@ -134,5 +134,36 @@ In this assignment, we learned how to use multiple analysis methods to find an a
 
 ## 2157 Section
 
+### FEA Analysis
 
+For the first part of this extra section, I was to analyze the crosshead feature I designed and the stress and deflection that can be observed given by a fixed screw hole geometry and a 2 kN force enacting at the center hole.
 
+<img width="1093" height="425" alt="Screenshot 2026-11-12 012501" src="https://github.com/user-attachments/assets/176856b0-16ff-478e-9390-1075e4bde18f" />
+
+I was to analyze the the part at two separate mesh levels, a coarse and fine mesh analysis. I began with a very coarse mesh.
+
+<img width="1063" height="375" alt="Screenshot 2026-11-12 012833" src="https://github.com/user-attachments/assets/1d07470f-f864-4a16-be6f-cff2dfe5c317" />
+
+<img width="1131" height="567" alt="Screenshot 2026-11-12 013219" src="https://github.com/user-attachments/assets/bc252dab-c64c-483e-ae5e-d601e367f832" />
+
+<img width="1422" height="707" alt="Screenshot 2026-11-12 013648" src="https://github.com/user-attachments/assets/167aa535-86f1-491b-bc9c-03658ebd9873" />
+
+<img width="1132" height="623" alt="Screenshot 2026-11-12 013846" src="https://github.com/user-attachments/assets/223cc4ee-1d7a-42c7-9d38-31f8b6242658" />
+
+The coarse mesh analysis of the crosshead showed a max von Mises stress at the center bore of about 98 MPa, as well as a max deflection of about 0.0025mm, with a deflection of about 0.0006mm at the center bore. The absolute smallest factor of safety throughout the entire crosshead was abut 2.15.
+
+Moving onto the fine mesh analysis, the grains were a lot smaller and there were a lot more of them.
+
+<img width="1041" height="448" alt="Screenshot 2026-11-12 014149" src="https://github.com/user-attachments/assets/e6e6bb74-2d50-41c0-b506-c917c57cdbe1" />
+
+<img width="1183" height="672" alt="Screenshot 2026-11-12 014239" src="https://github.com/user-attachments/assets/d69b1c7f-972f-4007-ac14-d3581126992e" />
+
+<img width="1126" height="607" alt="Screenshot 2026-11-12 014259" src="https://github.com/user-attachments/assets/a30a6789-4614-41d1-a8ed-1ff41e5f1b3b" />
+
+<img width="1120" height="622" alt="Screenshot 2026-11-12 014317" src="https://github.com/user-attachments/assets/a563a0f5-030c-4325-9a4f-880213ff9cb5" />
+
+For the finer mesh element analysis, the max stress was actually higher with a magnitude of 132 MPa, however it was centralized at the center bore and there was almost no stress throughout the rest of the crosshead. The max deflection was about 0.0026mm which was very similar to the coarse grain analysis. The factor of safety was also very similar at about 2.11. The stress was surprisingly one of the only areas of focus that differed with the level of mesh.
+
+### Drawings
+
+<img width="640" height="650" alt="Screenshot 2026-11-12 023839" src="https://github.com/user-attachments/assets/939f2050-e7a4-451e-8fef-c092ed52b61e" />

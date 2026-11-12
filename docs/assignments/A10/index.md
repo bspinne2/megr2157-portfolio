@@ -124,7 +124,7 @@ This lead screw setup is incomplete as it is missing some key components for a p
 
 ### CAD FILES
 
-[Uploading Crosshead.STEP…]()
+[Crosshead.pdf](https://github.com/user-attachments/files/34733443/Crosshead.pdf)
 
 
 

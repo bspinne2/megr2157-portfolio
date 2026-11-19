@@ -40,6 +40,10 @@ The chosen T-slot extruded columns we chose were the 80/20 15-Series McMaster 47
 
 ### Analyzing the top of the frame - Eshan
 
+For the T-slotted frame, we went with the 5537T102 frame since it has a height and width of 40 mm and has a material strong enough to withstand the loads calculated in the previous sections. We defined the boundaries to be the two opposing sides of the frame, since that’s where it will be attached to the tensile tester. We added two 1000 kN loads onto where the leadscrew attaches and added the moments on either side. 
+
+<img width="522" height="262" alt="Screenshot 2026-11-19 025426" src="https://github.com/user-attachments/assets/c3ec7518-c2f9-4533-8bab-ce97d4c9e3d1" />
+
 ### Analyzing the vertical components of the frame - Eshan
 
 ## Designing Floating Bearing Mount - Noel
@@ -62,4 +66,8 @@ Overall, this two-part assignment taught us the importance of tolerances, materi
 
 ## MEGR 2157 Section
 
+<img width="513" height="386" alt="Screenshot 2026-11-19 025433" src="https://github.com/user-attachments/assets/85df4fd9-108c-420c-88f0-2e1905775d48" />
 
+[tslot.prt.zip](https://github.com/user-attachments/files/35073502/tslot.prt.zip)
+
+[tslota11.drw.zip](https://github.com/user-attachments/files/35073504/tslota11.drw.zip)

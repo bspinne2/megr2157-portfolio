@@ -48,8 +48,18 @@ The chosen T-slot extruded columns we chose were the 80/20 15-Series McMaster 47
 
 <img width="1179" height="2096" alt="99AD6301-5A93-4CDA-AEFA-FD1B0338CCFB" src="https://github.com/user-attachments/assets/54668c74-e950-4a9e-af9f-59c56eb835a6" />
 
+Creating the floating bearing mount was a little confusing at first, as there were little to no instructions on how it was supposed to be done. With the reference of the bearing mount in the appendix, I created a bearing that matched the first frame design as well as I could get it to match, while defining each dimension and justifying why it must be there for the entire assembly. I chose a RC3 fit with a 0.40-0.71 inch range for the major diameter (0.500”) of the ½”-10 ACME lead screw. The material I chose for the floating bearing mount was 6061-T6 aluminum; same as the other frame.
+
 ## Bills of Material & Labor Costs - Noel
 
 <img width="550" height="850" alt="Screenshot 2026-11-19 005201" src="https://github.com/user-attachments/assets/2db74311-f210-4c47-8eea-4432073c1b68" />
 
+The bill of materials was not very difficult to craft, as there were general sizes of aluminum of each respective part that fits the specified dimensions of each part. The screw and M6 bolts were easy to find as well, and there was an exact T-slot on McMaster that was ideal for our assembly.
+
 ## Lessons Learned - Noel
+
+Overall, this two-part assignment taught us the importance of tolerances, materials, and fits throughout the different phases of the assignments. Finding the right lead screw for our motor, and identifying the specific dimensions of the mounts, and analysing each part emphasized the importance of accuracy and precision when it comes to an assembly, as if one part is off, then the entire assembly will not fit together. Throughout this assignment, we prioritized teamwork and communication as we delegated different parts of each assignment to one another and trusted them to do it right and be responsible for their own work. This assignment took around 10 hours between all of us to complete.
+
+## MEGR 2157 Section
+
+

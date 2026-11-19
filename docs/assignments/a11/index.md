@@ -42,9 +42,15 @@ The chosen T-slot extruded columns we chose were the 80/20 15-Series McMaster 47
 
 For the T-slotted frame, we went with the 5537T102 frame since it has a height and width of 40 mm and has a material strong enough to withstand the loads calculated in the previous sections. We defined the boundaries to be the two opposing sides of the frame, since that’s where it will be attached to the tensile tester. We added two 1000 kN loads onto where the leadscrew attaches and added the moments on either side. 
 
+With the constraints set, we ran an FEA analysis and obtained the Von Mises below. We can see that the highest stress value is 1.87 Mpa and the lowest stress value is 0.24 Mpa. Our material is strong enough to withstand this stress. One possible way we can optimize this design is by increasing the thickness of the outer edges of the imported frame since that’s where the majority of the stress is concentrated. 
+
 <img width="522" height="262" alt="Screenshot 2026-11-19 025426" src="https://github.com/user-attachments/assets/c3ec7518-c2f9-4533-8bab-ce97d4c9e3d1" />
 
 ### Analyzing the vertical components of the frame - Eshan
+
+For the vertical components, we followed the same steps as we did for the top of the frame. In the image below, you can see the Von Mises in which the highest stress value is 40.93 MPa and the lowest stress value is 0.024 MPa. One possible way we can optimize this is by adding further support on the end with the higher load to reduce the overall stress. 
+
+<img width="520" height="282" alt="Screenshot 2026-11-19 031143" src="https://github.com/user-attachments/assets/3199483e-3eff-4628-b08d-19e4cfe5f739" />
 
 ## Designing Floating Bearing Mount - Noel
 
@@ -67,6 +73,8 @@ Overall, this two-part assignment taught us the importance of tolerances, materi
 ## MEGR 2157 Section
 
 <img width="513" height="386" alt="Screenshot 2026-11-19 025433" src="https://github.com/user-attachments/assets/85df4fd9-108c-420c-88f0-2e1905775d48" />
+
+<img width="550" height="850" alt="Screenshot 2026-11-19 005201" src="https://github.com/user-attachments/assets/99a32547-8110-4c3a-ab0e-3d397b56233b" />
 
 [tslot.prt.zip](https://github.com/user-attachments/files/35073502/tslot.prt.zip)
 
